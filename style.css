@@ -297,7 +297,7 @@ footer{
 
 .footer__links{
     display: grid;
-    grid-template-columns: repeat(5, minmax(20%, max-content));
+    grid-template-columns: repeat(5, minmax(18%, max-content));
     gap: 2rem;
     padding-top: 2rem;
 }
